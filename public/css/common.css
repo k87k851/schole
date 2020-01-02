@@ -1,0 +1,10 @@
+.center {
+    text-align: center;
+}
+
+.participation-list {
+    table-layout: fixed;
+}
+.participation-list td {
+    padding: 1px;
+}
