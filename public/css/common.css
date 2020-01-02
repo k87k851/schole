@@ -3,7 +3,10 @@
 }
 
 .participation-list {
-    table-layout: fixed;
+    /*table-layout: fixed;*/
+}
+.participation-list th {
+    padding: 1px;
 }
 .participation-list td {
     padding: 1px;

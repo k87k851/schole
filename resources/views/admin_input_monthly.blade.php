@@ -9,9 +9,9 @@
     <div class="table-responsive">
     <table class="table table-bordered participation-list">
         <tr>
-            <th style="width: 120px;">氏名</th>
+            <th style="width: 100px;min-width: 100px;">氏名</th>
             @foreach(range(1, 31) as $index)
-            <th class="center">{{ $index }}</th>
+            <th class="center" style="width: 35px;min-width: 35px;">{{ $index }}</th>
             @endforeach
         </tr>
         <tr>

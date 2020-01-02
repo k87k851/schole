@@ -9,8 +9,8 @@
     <div class="table-responsive">
     <table class="table table-bordered participation-list">
         <tr>
-            <th style="width: 120px;">氏名</th>
-            <th class="center">1</th>
+            <th style="width: 100px;min-width: 100px;">氏名</th>
+            <th class="center" style="width: 35px;min-width: 35px;">1</th>
         </tr>
         <tr>
             <td>雨森さつき</td>
